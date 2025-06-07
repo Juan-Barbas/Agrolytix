@@ -1,0 +1,7 @@
+Copyright (c) 2025 Juan-Barbas
+
+Este software y todo su contenido son propiedad exclusiva del autor.
+
+No se autoriza la copia, distribución, modificación, uso comercial o reutilización total o parcial de este código sin consentimiento expreso y por escrito del autor.
+
+Todos los derechos reservados.
